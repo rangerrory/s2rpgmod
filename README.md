@@ -1,1 +1,1 @@
-# s2rpgmod
+# State 2 Roleplay: Garrys Mod Server
